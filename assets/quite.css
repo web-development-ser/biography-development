@@ -1,0 +1,48 @@
+/* CSS3 de aquivar e expandir imagens fontes... tag ( header ) */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gemunu+Libre&family=Play&family=Signika&display=swap');
+.container-two {
+  /* Fonts */
+  /* font-family: 'Gemunu Libre', sans-serif;
+  font-family: 'Bebas Neue', cursive; */
+  font-family: 'Play', sans-serif;
+  font-family: 'Signika', sans-serif;
+}
+.container-three p {
+  margin: 13px 2rem 0 2rem;
+  font-size: 29px;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+}
+.container-three h3 {
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 31px;
+  width: 80%;
+  margin-top: 13rem;
+  color: White;
+  margin-left: 13px;
+  margin-bottom: 23px;
+}
+.container-three p:nth-child(3) {
+  font-size: 27px;
+}
+.fi {
+  font-size: 17px;
+}
+.container-five-one {
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 23px;
+  text-align: center;
+}
+.anonim a {
+  font-family: 'Play', sans-serif;
+  font-family: 'Signika', sans-serif;
+}
+.container-four {
+  font-family: 'Play', sans-serif;
+}
+.frase {
+  font-family: 'Play', sans-serif;
+  font-family: 'Gemunu Libre', sans-serif;
+}
