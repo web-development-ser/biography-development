@@ -7,7 +7,7 @@ body {
   background: #000000;
   letter-spacing: 1px;
 }
-/* Navegação Botões ( Menu ) >>> */
+/* Navegação Botões ( Menu / nav ) >>> */
 .dropdown-menu i {
   font-size: 21px;
 }
@@ -124,4 +124,10 @@ body {
 }
 span {
   color: #52E1E2;
+}
+span::selection {
+  background-color: #52E1E2;
+}
+.container-two h1::selection {
+  background-color: white;
 }
